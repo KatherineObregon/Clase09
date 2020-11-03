@@ -2,6 +2,7 @@ public class Prueba {
     private  String nombre;
     private String apellido ;
     private  String alumno;
+    private String alumno2;
 
 
     public String getNombre() {
