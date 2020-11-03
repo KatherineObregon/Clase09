@@ -1,6 +1,8 @@
 public class Prueba {
     private  String nombre;
     private String apellido ;
+    private  String alumno;
+
 
     public String getNombre() {
         return nombre;
