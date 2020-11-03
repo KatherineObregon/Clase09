@@ -1,6 +1,15 @@
 public class Prueba3 {
     private String apellido;
     private String codigo;
+    private String edad;
+
+    public String getEdad() {
+        return edad;
+    }
+
+    public void setEdad(String edad) {
+        this.edad = edad;
+    }
 
     public String getApellido() {
         return apellido;
